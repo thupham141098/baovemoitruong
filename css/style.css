@@ -1,0 +1,326 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0 auto;
+}
+#banner .card-img-overlay {
+  padding: 0 !important;
+}
+#banner .card {
+  border: 0;
+}
+
+#banner h2 {
+  font-size: 31px;
+  font-family: Segoe UI;
+  color: #2b9854;
+  text-shadow: 2px 2px #ffffff;
+}
+#banner h4 {
+  font-size: 30px;
+  font-family: Segoe UI;
+  color: #00923f;
+  margin-left: 55px;
+  margin-top: 90px;
+}
+#banner h3 {
+  font-size: 23px;
+  font-family: Segoe UI;
+  color: #5d6e4a;
+  margin-left: 30px;
+}
+
+#nav-bar .navbar {
+  background-color: #00923f;
+  margin-top: -15px;
+}
+#nav-bar a {
+  font-size: 13px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#nav-bar a:hover {
+  color: #ff0000;
+  text-shadow: 1px 1px #ffffff;
+}
+#nav-bar-2 .navbar {
+  background-color: #eeeeee !important;
+}
+#nav-bar-2 a {
+  font-size: 12px;
+  color: #646464;
+}
+#nav-bar-2 a:hover {
+  color: #321daa;
+}
+#navbarSupportedContent2 i {
+  color: orange;
+}
+#news {
+  margin-top: 15px;
+}
+#news form button {
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 20px;
+}
+#news .tintuc{
+    border: 0;
+}
+#news .tintuc p {
+  font-size: 23px;
+  font-weight: bold;
+  color: #454545;
+}
+#news .media .media-body {
+  font-size: 15px;
+  color: #262626;
+}
+#news .dangky .card-header {
+  background-color: #00923f;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#evironment {
+  margin-top: 20px;
+}
+#evironment .side-left .anh1 {
+  border: 0;
+}
+#evironment .side-left .tin_hd{
+    border: 0;
+}
+#evironment .side-left .tin_hd .card-body{
+    border: 1px solid #cecece;
+    border-top-color:  #00923f;
+    background-color: #fcfcfc;
+}
+#evironment .side-left .tin_hd .card-body .media .tinchinh{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#evironment .side-left .tin_hd .card-body .media .thoigian{
+    margin-top: -20px;
+}
+#evironment .side-left .tin_hd .card-body  button{
+    background-color: #009551;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 250px;
+}
+#evironment .side-left .tin_hd .hide{
+    background-color: #D0F87D;
+    border-radius: 0 80px 0 0;
+    width: 235px;
+}
+#evironment .side-left .tin_hd h5{
+background-color: #00923f;
+  font-size: 14px;
+  border-radius: 0 80px 0 0;
+  width: 225px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#evironment .side-left .tin_hd .line-news p{
+  border-bottom: 1px dashed #adadad;
+  padding-bottom: 10px;
+}
+#evironment .side-left .hoi_dap{
+  border: 0;
+}
+#evironment .side-left .hoi_dap .hide1{
+  background-color: #D0F87D;
+  border-radius: 0 80px 0 0;
+  width: 120px;
+  height: 40px;
+}
+#evironment .side-left .hoi_dap ul{
+  margin-left: -20px;
+}
+#evironment .side-left .hoi_dap .under_bg{
+  background-color: #00923f;
+  font-size: 14px;
+  border-radius: 0 80px 0 0;
+  width: 110px;
+  color: #ffffff;
+  font-weight: bold;
+  }
+#evironment .side-left .hoi_dap .table_hoi{
+  border: 1px solid #cecece;
+  border-top-color:  #00923f;
+  background-color: #fcfcfc;
+  margin-top: -13px;
+}
+#evironment .side-left .hoi_dap .table_hoi span{
+  color:#41a364;
+  font-weight: bold;
+}
+#evironment .side-left .hoi_dap  .table_hoi a{
+  color: #56aa73;
+  margin-left: 250px;
+}
+#evironment .side-left .hoi_dap .thu_vien{
+  border: 1px solid #cecece;
+  border-top-color:  #00923f;
+  background-color: #f0f0f0;
+  margin-top: -13px;
+}
+#evironment .side-right .qc1 {
+  border: 0;
+}
+#evironment .side-right .qc1 p {
+  font-size: 19px;
+  color: #ff0000;
+  text-shadow: 2px 2px #ffffff;
+  font-weight: bold;
+}
+#evironment .side-right .qc2 {
+  border: 1px solid #cecece;
+  margin-top: 20px;
+}
+#evironment .side-right .qc2 h5 {
+  background-color: #00923f;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#evironment .side-right .qc2 p {
+  font-size: 15px;
+  border-bottom: 1px dashed #cecece;
+  padding-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+#evironment .qc3 {
+  margin-top: 20px;
+  border: 0;
+}
+#evironment .qc3 p {
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+  color: #ff0000;
+  text-shadow: 2px 2px #ffffff;
+  margin-top: 20px;
+}
+#evironment .qc4 .card-header{
+  background-color: #ffffff;
+}
+ #evironment .qc4 .card-header label{
+font-size: 14px;
+}
+#evironment .qc4  img{
+  margin-left: 5px;
+  float: left;
+} 
+#evironment .qc4  .temp{
+  color:#000;
+  float: left;
+  padding-left: 10px;
+  font-size: 40px;
+  font-weight: 100;
+}
+#evironment .qc4  .temp span{
+
+  font-size: 25px;
+  vertical-align: top;
+  display: inline-block;
+
+}
+#evironment .qc4  .thoi_tiet{
+  float: left;
+}
+#evironment .qc4  .thoi_tiet .sky{
+  color:#666;
+  padding-left: 5px;
+  padding-top:5px;
+
+}
+#evironment .qc4  .thoi_tiet .precip{
+  color:#666;
+}
+#evironment .qc4  .multiday {
+  list-style: none;
+  clear: both;
+  margin:0 auto;
+}
+#evironment .qc4 .multiday li{
+  float: left;
+  margin-left: 5px;
+  background-color: rgba(0, 0, 0, 0.05);
+  text-align: center;
+  color: rgba(0, 0, 0, 0.9);
+  width: 40px;
+  height: 150px;
+}
+#evironment .qc4  .weather{
+  margin-left: 9px;
+  font-size: 12px;
+  color: #6b6b6b;
+  display: inline-block;
+  margin-top: 25px;
+}
+#evironment .qc5 {
+  margin-top: 20px;
+}
+#evironment .qc5 .card-header {
+  background-color: #00923f;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#evironment .qc5 .card-body {
+  background-color: #eeeeee;
+}
+#evironment .qc6 {
+  margin-top: 20px;
+}
+#evironment .qc6 .card-header {
+  background-color: #00923f;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#evironment .qc6 .card-body {
+    background-color: #eeeeee;
+  }
+  #evironment .qc6 .card-body table td{
+      padding: 5px;
+  }
+  #footer .footer-nav{
+    background-color: #00863a;
+  }
+  #footer .footer-nav .navbar-toggler{
+    border-color:#ffffff;
+}
+  #footer .footer-nav a{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 13px;
+  }
+#footer .body-footer{
+  background-color: #009f45;
+
+}
+#footer .body-footer .body-nav .navbar-toggler{
+    border-color:#ffffff;
+}
+#footer .body-footer .body-nav a{
+  color:#ffffff;
+}
+#footer .body-footer .logo_footer img{
+ margin-left: 20px;
+}
+#footer .body-footer .logo_footer h2{
+  margin-left: 60px;
+  color: #ffffff;
+  font-weight: bold;
+ }
+ #footer .body-footer .logo_footer .body-text1 h5{
+  font-size: 19px;
+ }
